@@ -1,0 +1,34 @@
+Bootstrap:
+    * Librería de estilos CC
+    * Creada por twitter
+    * Su función es es dotar de responsividad a los sistios web
+
+CDN: Content Delivery Network
+    - Red de distribucion de contenidos
+
+* Bootstrap maneja la pantalla dividada en 12 espacios
+
+* Bootstrap maneja 4 tamanios de pantalla
+    - sm: small
+    - md: medio
+    - lg: largo
+    - xl: extra largo
+
+* Clases
+    - container: se usa en los div, para contener otras etiquetas
+    - row: se usa para generar una nueva fila de etiquetas
+    - table: da estilo a una tabla
+    - table-striped: color intercalado, para las filas
+    - table-dark: tabla oscura
+    - my-x: da una margen vertical entre contenedores, p.e: my-3 (margen de 3 unidades)
+    - mx-x: da una margen horizontal entre contenedores, p.e: mx-3 (margen de 3 unidades)
+    - py-x: da una margen vertical entre el contenedor y el contenido, p.e: py-3 (padding de 3 unidades)
+    - px-x: da una margen horizontal entre el contenedor y el contenido, p.e: px-3 (padding de 3 unidades)
+
+    - mb-x: margin bottom - p.e: mb-3 (margen inferior de 3 unidades)
+    - mt-x: margin top - p.e: mt-3 (margen superior de 3 unidades)
+    - mr-x: margin right - p.e: mr-3 (margen derecho de 3 unidades)
+    - ml-x: margin left - p.e: ml-3 (margen izquierdo de 3 unidades)
+
+    - ms-auto: margin start (Margen a la izquierda para el navbar)
+    - me-auto: margin end (Margen a la derecha para el navbar)
